@@ -1,0 +1,6 @@
+jupyter-book
+streamlit
+fastapi
+requests
+numpy
+pandas

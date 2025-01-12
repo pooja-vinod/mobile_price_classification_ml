@@ -1,0 +1,5 @@
+title: "Mobile Price Classification Project"
+author: "Pooja Vinod Patil"
+logo: "logo.png"  # Replace with a logo file if you have one
+execute:
+  execute_notebooks: off  # No live execution for this book

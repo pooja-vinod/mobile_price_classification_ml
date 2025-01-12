@@ -1,0 +1,9 @@
+format: jb-book
+root: portfolio/welcome_page  # Set the Welcome Page as the root page
+
+chapters:
+- file: portfolio/resume
+  title: Resume
+
+- url: https://colab.research.google.com/drive/1gSDmXhXzyyOJ013qlfDGuiTpQdq-BNDZ#scrollTo=mDuuUyvmSzha&uniqifier=3  
+  title: Open Colab Notebook
