@@ -1,9 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
 format: jb-book
-root: portfolio/welcome_page  # Set the Welcome Page as the root page
-
+root: intro
+options:
+  numbered: True
 chapters:
-- file: portfolio/resume
-  title: Resume
-
-- url: https://colab.research.google.com/drive/1gSDmXhXzyyOJ013qlfDGuiTpQdq-BNDZ#scrollTo=mDuuUyvmSzha&uniqifier=3  
-  title: Open Colab Notebook
+- file: chapters/final_project/fundamentals
+  sections:
+  - file: chapters/final_project/EAS_503
+# - file: notebooks
+# - file: markdown-notebooks

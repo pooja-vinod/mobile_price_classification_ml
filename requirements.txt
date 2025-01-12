@@ -1,6 +1,4 @@
+ghp-import
 jupyter-book
-streamlit
-fastapi
-requests
+matplotlib
 numpy
-pandas
